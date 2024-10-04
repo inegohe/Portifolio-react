@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 406 407">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: #2e3192;
+      }
+
+      .cls-4 {
+        font-family: Montserrat-Black, Montserrat;
+        font-size: 292.14px;
+        font-weight: 800;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" y="52" width="288" height="288" rx="66.5" ry="66.5"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-3" y="52" width="288" height="288" rx="66.5" ry="66.5"/>
+  <g class="cls-5">
+    <text class="cls-4" transform="translate(31.53 311.12) scale(.86 1)"><tspan x="0" y="0">iK</tspan></text>
+    <polygon class="cls-2" points="244.52 106.62 324 0 288 134 244.52 111 244.52 106.62"/>
+    <polygon class="cls-2" points="244.02 311.12 312.83 407 312.83 302 288 273.5 244.02 311.12"/>
+  </g>
+</svg>
