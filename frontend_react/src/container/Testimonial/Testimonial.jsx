@@ -29,7 +29,7 @@ const Testimonial = () => {
   }, []);
     return (
         <>
-        {testimonials.length && (
+        {testimonials.length > 0 && (
             <>
             <div className='app__testimonial-item app__flex'>
                 <img src={urlFor(testimonials[currentIndex].imgurl)} alt='testimonial' />
